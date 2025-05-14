@@ -79,14 +79,11 @@ You can replace it with any other mock API if needed.
 
 ---
 
-## 📸 Screenshots
 
-> Add your screenshots here if needed.
-
----
 
 ## 📽️ Demo Video
 
-> Include a demo video or screen recording showing login, navigation, product listing, filter, and animation.
+> Included a demo video or screen recording showing login, navigation, product listing, filter, and animation.
+https://drive.google.com/file/d/1gK6mgSRYS9kYWYvlT0zPHXjjpiw0hapC/view?usp=sharing
 
 ---
