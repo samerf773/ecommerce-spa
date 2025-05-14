@@ -30,8 +30,8 @@ Built with **React**, **Material UI**, and **Framer Motion**.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/ecommerce-spa-material-ui.git
-   cd ecommerce-spa-material-ui
+   git clone https://github.com/samerf773/ecommerce-spa.git
+   cd ecommerce-spa
    ```
 
 2. **Install dependencies**  
