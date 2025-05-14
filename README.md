@@ -17,22 +17,7 @@ Built with **React**, **Material UI**, and **Framer Motion**.
 
 ---
 
-## 📁 Folder Structure
 
-```
-src/
-│
-├── App.js
-├── index.js
-├── MainLayout.js
-├── LoginPage.js
-├── WelcomePage.js
-├── ProductsPage.js
-├── auth.js
-└── ...
-```
-
----
 
 ## ⚙️ Prerequisites
 
@@ -105,15 +90,3 @@ You can replace it with any other mock API if needed.
 > Include a demo video or screen recording showing login, navigation, product listing, filter, and animation.
 
 ---
-
-## 🧾 License
-
-This project is for demonstration and interview purposes only.  
-You may modify it for personal or educational use.
-
----
-
-## 👨‍💻 Author
-
-- [Your Name](https://github.com/your-username)
-- Frontend Developer
